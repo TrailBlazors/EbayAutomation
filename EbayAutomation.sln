@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EbayAutomation", "EbayAutomation.csproj", "{646525DF-B1BE-4DCC-9423-4670597B6EAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EbayMigrationTool", "..\EbayMigrationTool\EbayMigrationTool\EbayMigrationTool.csproj", "{4B2BDA1D-1545-4074-89C4-C616BC09DF52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{646525DF-B1BE-4DCC-9423-4670597B6EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646525DF-B1BE-4DCC-9423-4670597B6EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646525DF-B1BE-4DCC-9423-4670597B6EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646525DF-B1BE-4DCC-9423-4670597B6EAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B2BDA1D-1545-4074-89C4-C616BC09DF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B2BDA1D-1545-4074-89C4-C616BC09DF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B2BDA1D-1545-4074-89C4-C616BC09DF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B2BDA1D-1545-4074-89C4-C616BC09DF52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DDC75ED-6548-45A9-97E9-1C00FEF62CA0}
+	EndGlobalSection
+EndGlobal

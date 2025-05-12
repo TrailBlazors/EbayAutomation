@@ -1,0 +1,14 @@
+﻿name: ebay-config
+
+# Update the values according to your application
+api.sandbox.ebay.com:
+  appid: Hamilton-Hamilton-SBX-2ac3b4765-e3e7d13b
+  certid: SBX-ac3b4765bbe5-a44c-46be-a619-c7a6
+  devid: d7cd802c-ad41-47f1-bedd-70be4d7ae4c3
+  redirecturi: Hamilton_Bobs-Hamilton-Hamilt-tcblolc
+
+api.ebay.com:
+  appid: Hamilton-Hamilton-PRD-981e7d6d3-73cef276
+  certid: PRD-81e7d6d36e90-4144-465a-b085-51ed
+  devid: d7cd802c-ad41-47f1-bedd-70be4d7ae4c3
+  redirecturi: Hamilton_Bobs-Hamilton-Hamilt-tcblolc
